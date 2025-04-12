@@ -8,13 +8,13 @@ export default function AboutPage() {
     "The frequency that a cat's purr emits has healing properties.",
     "In a whole Chess game, there are more possible iterations (positions) of chess games than there are atoms in the observable universe.",
     "Although dogs have roughly double the number of neurons than cats, cats are smarter because they are smaller and don't require as many neurons to perform physical movement.",
-    "fact 4",
-    "fact 5",
-    "fact 6",
-    "fact 7",
-    "fact 8",
-    "fact 9",
-    "fact 10",
+    "Ice is frozen water.",
+    "Chess is better than checkers.",
+    "Chicken jockey is zombie on a chicken",
+    "a Cats meow is not speaking with other cats, they developed it when humans domesticated them. They use it to attract attention.",
+    "Homework fries my brain.",
+    "Humans rely too much on the internet.",
+    "A platyus is the only mammal that lays eggs.",
   ];
   const [fact, setFact] = useState("");
 
